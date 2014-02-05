@@ -341,7 +341,7 @@ namespace FileRenameUtility
                     checkAllFiles(true);
 
                 }
-                catch (Exception ex)
+                catch 
                 {
                     // problem getting files from default directory. reset to ""
                     appSettings.sDefaultDir = "";

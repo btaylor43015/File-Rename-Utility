@@ -26,3 +26,17 @@ C:\FileRenameUtility_v2\FileRenameUtility\obj\Debug\GenerateResource.read.1.tlog
 C:\FileRenameUtility_v2\FileRenameUtility\obj\Debug\GenerateResource.write.1.tlog
 C:\FileRenameUtility_v2\FileRenameUtility\obj\Debug\FileRenameUtility.exe.manifest
 C:\FileRenameUtility_v2\FileRenameUtility\obj\Debug\FileRenameUtility.application
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\FileRenameUtility.exe
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\FileRenameUtility.pdb
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\bin\Debug\FileRenameUtility.exe.manifest
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\bin\Debug\FileRenameUtility.application
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\bin\Debug\FileRenameUtility.exe
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\bin\Debug\FileRenameUtility.pdb
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\FileRenameUtility.frmMain.resources
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\FileRenameUtility.frmSettings.resources
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\FileRenameUtility.Properties.Resources.resources
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\FileRenameUtility.exe.manifest
+C:\Users\Robert\Documents\GitHub\File-Rename-Utility\obj\Debug\FileRenameUtility.application
