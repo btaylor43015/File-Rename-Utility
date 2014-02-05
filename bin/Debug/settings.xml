@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ApplicationSettings>
+  <SourcePattern>IMG*.*</SourcePattern>
+  <TargetPattern>&lt;date&gt;*.*</TargetPattern>
+  <DefaultDirectory>C:\FileRenameUtility_v2</DefaultDirectory>
+</ApplicationSettings>

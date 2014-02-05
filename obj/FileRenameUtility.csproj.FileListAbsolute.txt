@@ -1,0 +1,15 @@
+C:\Documents and Settings\Bob.TAYLOR01\My Documents\Visual Studio 2005\Projects\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.exe
+C:\Documents and Settings\Bob.TAYLOR01\My Documents\Visual Studio 2005\Projects\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.pdb
+E:\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.exe
+E:\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.pdb
+E:\FileRenameUtility\FileRenameUtility\bin\Debug\FileRenameUtility.exe.manifest
+E:\FileRenameUtility\FileRenameUtility\bin\Debug\FileRenameUtility.application
+E:\FileRenameUtility\FileRenameUtility\bin\Debug\FileRenameUtility.exe
+E:\FileRenameUtility\FileRenameUtility\bin\Debug\FileRenameUtility.pdb
+E:\FileRenameUtility\FileRenameUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.frmMain.resources
+E:\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.frmSettings.resources
+E:\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.Properties.Resources.resources
+E:\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.csproj.GenerateResource.Cache
+E:\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.exe.manifest
+E:\FileRenameUtility\FileRenameUtility\obj\Debug\FileRenameUtility.application

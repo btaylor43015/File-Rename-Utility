@@ -1,0 +1,13 @@
+bin\Debug\FileRenameUtility.exe
+bin\Debug\FileRenameUtility.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FileRenameUtility.frmMain.resources
+obj\Debug\FileRenameUtility.Properties.Resources.resources
+obj\Debug\FileRenameUtility.csproj.GenerateResource.Cache
+obj\Debug\FileRenameUtility.exe
+obj\Debug\FileRenameUtility.pdb
+obj\Debug\FileRenameUtility.frmSettings.resources
+bin\Debug\FileRenameUtility.exe.manifest
+bin\Debug\FileRenameUtility.application
+obj\Debug\FileRenameUtility.exe.manifest
+obj\Debug\FileRenameUtility.application
