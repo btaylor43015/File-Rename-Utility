@@ -361,5 +361,10 @@ namespace FileRenameUtility
             showSettings();
 
         }
+
+        private void lbFiles_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

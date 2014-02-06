@@ -127,6 +127,7 @@ namespace FileRenameUtility
             this.lbFiles.Name = "lbFiles";
             this.lbFiles.Size = new System.Drawing.Size(556, 319);
             this.lbFiles.TabIndex = 4;
+            this.lbFiles.SelectedIndexChanged += new System.EventHandler(this.lbFiles_SelectedIndexChanged);
             // 
             // btnSelectAll
             // 
